@@ -1,0 +1,352 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Love and charity presented in a copy of verses to his worthy masters in the ward of St. Giles's Cripplegate without. / By William Briscoe, bell-man within the Freedom.</title>
+            <author>Briscoe, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1668</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01788</idno>
+            <idno type="STC">Wing B4759</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.4[132]</idno>
+            <idno type="EEBO-CITATION">99884993</idno>
+            <idno type="PROQUEST">ocm99884993</idno>
+            <idno type="VID">182801</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01788)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182801)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A4:2[133])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Love and charity presented in a copy of verses to his worthy masters in the ward of St. Giles's Cripplegate without. / By William Briscoe, bell-man within the Freedom.</title>
+                  <author>Briscoe, William.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>printed Decemb. 24th, 1668.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "Y'are welcome masters all to Christmass Day ..."</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christmas --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poems">
+            <pb facs="tcp:182801:1" rendition="simple:additions"/>
+            <head>LOVE and CHARITY PRESENTED In a Copy of VERSES to his Worthy Maſters in the WARD of St. <hi>Giles</hi>'s <hi>Cripplegate</hi> without.</head>
+            <p>By <hi>William Briſcoe,</hi> Bell-man within the Freedom.</p>
+            <lg>
+               <head>For Chriſtmaſs Day.</head>
+               <l>Y'Are welcome Maſters all to <hi>Chriſtmaſs</hi> Day,</l>
+               <l>Of which God ſend you all ſpiritual joy;</l>
+               <l>And fill your hearts with deep conſideration</l>
+               <l>Of the great benefit of Man's Salvation:</l>
+               <l>So infinite the Sin of <hi>Adam</hi> was,</l>
+               <l>That God muſt come thus to redeem the loſs:</l>
+               <l>Thus to be born, and afterwards to die;</l>
+               <l>None but Himſelf Himſelf could ſatisfie.</l>
+            </lg>
+            <lg>
+               <head>God's Love to the World.</head>
+               <l>Such Love the Lord unto the World hath ſhowne,</l>
+               <l>In giving to us from his Boſome's Throne,</l>
+               <l>His equal and only begotten Sonne,</l>
+               <l>Th' aſſurer of Eternal Life to come;</l>
+               <l>And Great Redeemer of the World from Sin,</l>
+               <l>That none may periſh that believe in him:</l>
+               <l>For not to judge the World ſent was Hee,</l>
+               <l>But that the World by him might ſaved bee.</l>
+            </lg>
+            <lg>
+               <head>For Saint <hi>Stephen</hi>'s Day.</head>
+               <l>Saint <hi>Stephen</hi> to the Churche's firſt renown,</l>
+               <l>Of Martyrdome this day obtain'd the Crown,</l>
+               <l>By murdering hands of the incenſed <hi>Jewes,</hi>
+               </l>
+               <l>Who did him falſly of Blaſphemy accuſe;</l>
+               <l>With battering ſtones againſt his Angel's Face,</l>
+               <l>His Soul flying glorious to her manſion place:</l>
+               <l>But left behind the vertue of his Prayer</l>
+               <l>Made for his heads-men, of which <hi>Paul</hi> had ſhare.</l>
+            </lg>
+            <lg>
+               <head>Saint <hi>Stephen's</hi> Charity for his Enemies.</head>
+               <l>Chriſt's Charity was in his Sufferings much,</l>
+               <l>And <hi>Stephen</hi>'s was in imitation ſuch:</l>
+               <l>Father, ſaith Chriſt, forgive them of this fact,</l>
+               <l>For verily they know not what they act:</l>
+               <l>Like Charity enflam'd the prayer of <hi>Stephen</hi>
+               </l>
+               <l>Made on his Knees to have them all forgiven</l>
+               <l>That actors were and furtherers of his death,</l>
+               <l>So the good Saint concluded his laſt breath.</l>
+            </lg>
+            <lg>
+               <head>For Saint <hi>John's</hi> Day.</head>
+               <l>Saint <hi>John</hi> above all other term'd Divine,</l>
+               <l>Having ſet forth his Goſpel moſt ſublime,</l>
+               <l>In boyling Oyl confirm'd the truth he wrott,</l>
+               <l>Anointed Martyr, but not hurt a jott:</l>
+               <l>Thence baniſht, where he writ in <hi>Patmos</hi> Iſle,</l>
+               <l>Of the laſt Times in high Prophetick ſtile:</l>
+               <l>Then what became of <hi>John,</hi> or how <hi>John</hi> dy'd,</l>
+               <l>I leave that for the Learned to decide.</l>
+            </lg>
+            <lg>
+               <head>Saint <hi>John's</hi> Love.</head>
+               <l>Chriſt who did love Saint <hi>John</hi> with love entire,</l>
+               <l>Enflam'd his heart with love's moſt holy fire:</l>
+               <l>A Virgin love deriv'd moſt pure and clean,</l>
+               <l>When on his Breaſt <hi>John</hi>'s head in love did lean:</l>
+               <l>What time proceeding in Love's School Divine,</l>
+               <l>His Sacred Writings ſavour love each line:</l>
+               <l>And was in love by tryal of the fire</l>
+               <l>Crown'd for his love a Martyr in deſire.</l>
+            </lg>
+            <lg>
+               <head>For <hi>Childermas</hi> Day.</head>
+               <l>Now <hi>Herod</hi> Warrs againſt the God of Hoaſts,</l>
+               <l>In <hi>Bethlehem,</hi> and all throughout her Coaſts;</l>
+               <l>Where a loud voice was heard of lamentation;</l>
+               <l>
+                  <hi>Rachel</hi> without regard to conſolation,</l>
+               <l>Was weeping for her Children. Cruel deed!</l>
+               <l>To make ſo many innocent Infants bleed!</l>
+               <l>But being for Chriſt, the ſacred act and voice</l>
+               <l>Made <hi>Abram</hi>'s Boſome and all Heav'n rejoyce.</l>
+            </lg>
+            <lg>
+               <head>Chriſt's Love to Children.</head>
+               <l>Chriſt calling ſtill, even in his Infancy,</l>
+               <l>Suffer the little Ones to come to me,</l>
+               <l>Confirms his love to little Children much,</l>
+               <l>That would in ſpecial firſt make choice of ſuch</l>
+               <l>To bleed for him, and drink of his firſt Cup</l>
+               <l>Which was in Circumciſion offer'd up;</l>
+               <l>Thouſands in rage ſent by th' inceſtuous Ramme</l>
+               <l>To be continual followers of the Lambe.</l>
+            </lg>
+            <lg>
+               <head>For New-Years Day.</head>
+               <l>On <hi>New-Year's</hi> Day was to the Virgin's Sonne</l>
+               <l>Th' old Sacrament of Circumciſion done;</l>
+               <l>From whoſe divided Fleſh did freely ſpring</l>
+               <l>His Babes new Blood in Sacrifice for Sinne:</l>
+               <l>Th' unloading of whoſe Veins at eight dayes old,</l>
+               <l>Man's promis'd full Redemption well foretold,</l>
+               <l>How bounteous his <hi>Good-Friday's</hi> Gift would bee,</l>
+               <l>That in his New-Years Offering was ſo free.</l>
+            </lg>
+            <lg>
+               <head>Chriſt's <hi>New-Years Gift in Love.</hi>
+               </head>
+               <l>A bounteous New-Years Guift it was indeed</l>
+               <l>Which Chriſt this day out of his Veins did bleed;</l>
+               <l>To which no Creature poſſible could move,</l>
+               <l>But only Man the object of his Love:</l>
+               <l>Chriſt nothing thought too precious nor too much</l>
+               <l>T' engage for Man, his Love to Man was ſuch:</l>
+               <l>If Chriſt on Man ſo much enamour'd bee,</l>
+               <l>Baſe is Man's love of any leſs then Hee.</l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>For the</hi> Epiphany.</head>
+               <l>The <hi>Twelfth</hi> day after the Nativity,</l>
+               <l>Great was in <hi>Beth'lem</hi> the Feſtivity</l>
+               <l>Of the Three Kings, who after their long ſtation,</l>
+               <l>Arriv'd the birth-place of the Worlds Salvation:</l>
+               <l>Whom though in meaneſt poſture they behold,</l>
+               <l>Their <hi>Saba's</hi> Incenſe, and <hi>Arabian</hi> Gold</l>
+               <l>Offer'd with lively Faith, proſtrate before him,</l>
+               <l>They for their Liege-Lord <hi>God</hi> &amp; <hi>Man,</hi> adore him.</l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>The Love of the Three Kings to</hi> Chriſt.</head>
+               <l>And as their Faiths, their Loves to <hi>Chriſt</hi> was great,</l>
+               <l>So far from their abode and Native ſeat,</l>
+               <l>To travel with hard labour and expence,</l>
+               <l>In a poor Child to ſeek Omnipotence:</l>
+               <l>To ſuccour him that ſhivering was with cold,</l>
+               <l>Perfume his head, and load his hands with Gold:</l>
+               <l>With many accommodations more beſide,</l>
+               <l>When <hi>Beth'lem</hi> a poor Lodging him deny'd.</l>
+            </lg>
+            <lg>
+               <head>For Candlemas Day.</head>
+               <l>Th' unſpotted Virgin <hi>Mary</hi> on this Tide,</l>
+               <l>According to the Law was purify'd:</l>
+               <l>A needleſs Remedy if we conſider</l>
+               <l>The Pureneſs of the Fruit ſhe did deliver:</l>
+               <l>But <hi>Mary</hi> of her Iſſue ſtood in awe,</l>
+               <l>Who came in all things to fulfill the Law:</l>
+               <l>By which Chriſt teacheth us this Inference,</l>
+               <l>That Love is Mother of Obedience.</l>
+            </lg>
+            <lg>
+               <head>Love Chriſt, love his Precept.</head>
+               <l>He that by breach of Precept doth remove</l>
+               <l>Himſelf from Chriſt, abides not in Chriſt's love:</l>
+               <l>Chriſt's Precept is, That we love one another,</l>
+               <l>Who can love <hi>Chriſt</hi> that loves not then his brother?</l>
+               <l>Chriſt gave for us in love his precious Blood,</l>
+               <l>As we ought alſo for our brethren's good:</l>
+               <l>In this doth all Salvation conſiſt,</l>
+               <l>However men divert it as they liſt.</l>
+            </lg>
+            <lg>
+               <head>Love <hi>and</hi> Charity <hi>the mark of a Chriſtian.</hi>
+               </head>
+               <l>The proper mark of a true Chriſtian,</l>
+               <l>Is <hi>Charity</hi> and <hi>Love:</hi> the Wicked man</l>
+               <l>May Baptiſm have and Gift of Prophecy,</l>
+               <l>With Chriſtian exerciſe he may comply;</l>
+               <l>Yea and receive the Body of our Lord,</l>
+               <l>And make the Name of Chriſt his uſual word:</l>
+               <l>But Charity peculiar is alone</l>
+               <l>To the true Chriſtian; wanting that, he's none.</l>
+            </lg>
+            <lg>
+               <head>Charity the Soul's Convoy.</head>
+               <l>Diviner comfort what to man can bring,</l>
+               <l>Then mutual converſe betwixt God and him:</l>
+               <l>As when the Soul by prayer doth mounting fly</l>
+               <l>To Heav'n on wings of Love and Charity;</l>
+               <l>And ſtands by contemplation in the ſight</l>
+               <l>Of God, who is the ſphear of her delight:</l>
+               <l>No Tongue can ſpeak the comfort; for by this</l>
+               <l>She knowes God, and prepares her way to bliſs.</l>
+            </lg>
+            <lg>
+               <head>No vertue without Charity.</head>
+               <l>So gracious in Gods ſight is Charity,</l>
+               <l>That all good Works without it do miſcarry;</l>
+               <l>No Works perform'd of mercy at our door;</l>
+               <l>Should we diſtribute all unto the Poor;</l>
+               <l>Deliver up our bodies at the ſtake</l>
+               <l>To be burn'd only for Religions ſake:</l>
+               <l>All theſe do nothing profit nor avail,</l>
+               <l>If love we want, if Charity doth fail.</l>
+            </lg>
+            <lg>
+               <head>Love God, not the World.</head>
+               <l>Who to this World doth his heart enthrall,</l>
+               <l>Muſt into one of theſe two Sorrows fall;</l>
+               <l>Either to love the thing he cannot gain,</l>
+               <l>Or elſe to loſe what he hath got with pain.</l>
+               <l>Wherefore all Worldly affections, Man, reſign,</l>
+               <l>And place thy love on that which is Divine;</l>
+               <l>Where love ſhall ſurely be for love returned,</l>
+               <l>And Joyes poſſeſt never to be adjourned.</l>
+            </lg>
+            <lg>
+               <head>Chriſt's <hi>Love to the Poor.</hi>
+               </head>
+               <l>As Chriſt into the World came poor indeed,</l>
+               <l>So hath he left the Poor in his own ſteed,</l>
+               <l>Of whom, his Favourites, pronounce did Hee,</l>
+               <l>What's given to the Poor, is given to mee.</l>
+               <l>Can any Chriſtian then deny for ſhame</l>
+               <l>To give the poor that ask it in Chriſt's name:</l>
+               <l>To give the <hi>Poor,</hi> for Chriſt's ſake do not grutch,</l>
+               <l>They are Chriſt's friends, and will not you be ſuch?</l>
+            </lg>
+            <lg>
+               <head>God's <hi>Love to the</hi> City.</head>
+               <l>What can declare the Mercies of our God,</l>
+               <l>More then the preſent ſweetning of his Rod;</l>
+               <l>To ſet up <hi>LONDON</hi> in a cordial ſtate,</l>
+               <l>After the <hi>Bitter Cup</hi> Shee drank of late;</l>
+               <l>Not giving her a Mortal Overthrow,</l>
+               <l>Although in Sin as much Gods mortal foe,</l>
+               <l>As thoſe he left forſaken in His Ire,</l>
+               <l>To periſh in the Torrent of the Fire,</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed <hi>Decemb.</hi> 24th, 1668.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
